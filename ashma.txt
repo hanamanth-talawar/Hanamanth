@@ -1,0 +1,9 @@
+Find a Git branch containing changes to a given file
+6 Jun 2011
+Different file name in a specific branch - git - Stack Overflow
+2 Oct 2018
+How to get just one file from another branch? - Stack Overflow
+8 Nov 2011
+Use current branch as filename - Stack Overflow
+1 Nov 2021
+More results from stackoverflow.com
